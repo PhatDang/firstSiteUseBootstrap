@@ -1,2 +1,2 @@
 # firstSiteUseBootstrap
-Code Bootstrap Template
+My fisrt site use bootstrap template have responsive.
